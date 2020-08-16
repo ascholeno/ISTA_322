@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My first web page</title>
+		<meta name='author' content='Anthony Scholeno' />
+		<meta name='description' content='This is my first web page.' />
+		<script>
+			<!-- no script yet -->
+		</script>
+		<style>
+			<!-- no style yet -->
+		</style>
+	</head>
+	<body>
+		<a id='top' />
+		<a href="#bottom">Go to bottom</a> |
+		<a href="#table">Go to tables</a>
+		<a href="#Lists">Go to Lists</a>
+		<a href="#Forms">Go to Forms</a>
+		<!-- This is a comment -->
+		<h1>Hello World!</h1>
+			<p> Four Score and seven years ago our forefathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all people are created equally. </p>
+			<div> We hold these truths to be self evident, that all people are created equal, that all people with certain inalienbble rights, that people forom governments to secure their rights, and when government fails to do so, people have the right and duty to overthrow that governtment and institiute another one. </div>
+			<hr />
+		<h2>Hello World!</h2>
+			<div>Two types of elements</div>
+			<div> There are two types of elemnts. Elements that have content have an opening tag and a closing. Empty elements do not have content. Empty elements have a closing tag but are ended by a closing bracket, which consists of &lt;/tagname&gt;.</div>
+			<br />
+			<div> There are two <span> types </span> of elements. These are <i><b>GENERIC</b></i> elements. They are block level elements and inline elements. 
+				Block level elements are stacked vertically. 
+				Inline elements are &quot;stacked&quot; horizontally.
+				Examples will follow. </div>
+		<h3>Hyper Links</h3>
+			<a href='https://www.reddit.com' target = 'new'> Reddit</a> <br>
+			<a href='https://www.facebook.com' target = 'blank'> Facebook </a> <br>
+			<a href='https://myspace.com/' target = 'blank'> MySpace </a> <br>
+			<a href='http://symbolics.com/museum/' target="n"> Symbolics </a> <br>
+		<h4>HTML Tables</h4>
+			<a id ='table' /> <a href="#Table">Go to table</a>
+			<table rules="All" style="border: green double 16px; margin: 12px; ">
+				<tr style="background-color: #beebee;">
+					<th>Student</th>
+					<th>Pet</th>
+					<th>Species</th>
+					<th>Breed, Description</th>
+				</tr>
+				<tr>
+					<td>Rawlston</td>
+					<td>Izzy</td>
+					<td>Dog</td>
+					<td>Short black fur, blind in one eye, Blue Heeler</td>
+				</tr>
+				<tr>
+					<td>Patrick</td>
+					<td>Reginald</td>
+					<td>Snake</td>
+					<td>Black and white</td>
+				</tr>
+				<tr>
+					<td>Steven</td>
+					<td>Chester</td>
+					<td>Dog</td>
+					<td>Silky Terrior</td>
+				</tr>
+			</table>
+		<h2>Lists</h2>
+		<a id="Lists" />
+		<a href="#top">Go to top </a>
+		<!-- three kinds of lists, numbered, itemizedm, and dictionary -->
+		<h3>Numbered Lists</h3>
+		<ol>
+				<li>Green</li>	
+				<li>Eggs</li>	
+				<li>and</li>	
+				<li>Ham</li>	
+		</ol>
+		<h3>Itemmized lists</h3>
+		<ul>
+			<li>The</li>
+			<li>Cat</li>
+			<li>in</li>
+			<li>the</li>
+			<li>Hat</li>
+		</ul>
+		<h3>Dictionary Lists</h3>
+		<dl>
+			<dt>Yertle</dt><dd>a name of an individual</dd>
+			<dt>the</dt><dd>a singular definite article</dd>
+			<dt>Turtle</dt><dd>a reptile with a hard shell</dd>
+			<dt>Dr. Suess</dt><dd>a popular childere's author, now DED</dd>
+		</dl>
+
+		<h2>Forms</h2>
+		<a id="Forms" />
+		<a href="#top">Go to top </a>
+		<form method="" action="">
+			First Name: <input type="text" name="firstname"> <br>
+			Last Name: <input type="text" name="lastname"> <br>
+			Email: <input type="text" name="Email"> <br>
+			Birthday: <input type="date" name="Birthday"><br>
+			Password: <input type="Password" name="Password" minlength="5"> <hr>
+			Gender:<br>
+			<input type="radio" name="Gender" value="Male">Male<br>
+			<input type="radio" name="Gender" value="Female">Female<br>
+			<input type="radio" name="Gender" checked="checked" value="Other">Other<hr>
+			Pets:<br>
+			<input type="checkbox" name="Pet" value="Cat">Cat<br>	
+			<input type="checkbox" name="Pet" value="Dog">Dog<hr>
+			Cars:<br>
+				<select size="2">
+					<option name= "car" value="VW">VW</option>
+					<option name= "car" value="Mercedes">Mercedes</option>
+					<option name= "car" value="Volvo">Volvo</option>
+					<option name= "car" value="Ford">Ford</option>
+				</select><br>
+			Choose your favorite color: <input type="color" name="color"><br>
+			<textarea rows="6" cols="60"></textarea><br>
+			<input type="Submit">
+			<input type="reset"><br>
+			<button type="button">Button</button>
+		</form>
+
+	<a id='bottom' />
+	<a href="#top">Go to top</a>
+	</body>
+</html>
