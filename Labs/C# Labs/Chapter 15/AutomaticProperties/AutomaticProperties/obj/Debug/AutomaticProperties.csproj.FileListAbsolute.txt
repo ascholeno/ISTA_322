@@ -1,0 +1,7 @@
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 15\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 15\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.pdb

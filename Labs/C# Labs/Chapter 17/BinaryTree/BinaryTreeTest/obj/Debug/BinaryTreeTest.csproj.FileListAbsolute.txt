@@ -1,0 +1,10 @@
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe.config
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.dll
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.pdb
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csproj.CopyComplete
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.exe
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb

@@ -1,0 +1,22 @@
+﻿@model IEnumerable<string>
+
+@{
+    Layout = null;
+ }
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Language Features</title>
+</head>
+<body>
+    <h1>Here is my string array as a numbered (ordered) list</h1>
+    <ol>
+        @foreach (string s in Model)
+        {
+            <li>@s</li>
+        }
+    </ol>
+</body>
+</html>

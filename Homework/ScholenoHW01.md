@@ -1,5 +1,5 @@
-#Name: Anthony Scholeon
-##File: ISTA322 HW01
+# Name: Anthony Scholeon
+## File: ISTA322 HW01
 
 1. (not in book) What is HTML? See https://www.w3.org/TR/html40/.
 

@@ -1,0 +1,10 @@
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BuildTree\bin\Debug\BuildTree.exe.config
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BuildTree\bin\Debug\BuildTree.exe
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BuildTree\bin\Debug\BuildTree.pdb
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BuildTree\bin\Debug\BinaryTree.dll
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BuildTree\bin\Debug\BinaryTree.pdb
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BuildTree\obj\Debug\BuildTree.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BuildTree\obj\Debug\BuildTree.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BuildTree\obj\Debug\BuildTree.csproj.CopyComplete
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BuildTree\obj\Debug\BuildTree.exe
+C:\Users\antho\Desktop\MSSA\quantico06\ISTA322\Labs\C# Labs\Chapter 17\BinaryTree\BuildTree\obj\Debug\BuildTree.pdb
